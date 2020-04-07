@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d56880-1d72-4a38-bd9a-6f03cc38a66e" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/PersonShow/PersonShow/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PersonShow/gallery/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonShow/PersonShow/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PersonShow/PersonShow/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonShow/PersonShow/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PersonShow/PersonShow/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonShow/PersonShow/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/PersonShow/PersonShow/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonShow/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/PersonShow/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="E:/HelloWorld" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
